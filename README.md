@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Græy @yagregx
-- 👀 I’m interested in linguistics (cognitive science in general) and arts. 
-- 🌱 I’m currently learning (computational) linguistics, neuroscience, R, and some other stuff. 
-- 💞️ I’m looking to collaborate on ... not really, don't think I can collaborate on anything lol
+- 👀 I’m interested in cognitive science and many other stuff. 
+- 🌱 I’m currently learning neuroscience, R, some phonetic analysis stuff. 
+- 💞️ I’m looking to collaborate on that cogsci learner's hub project? maybe
 - 📫 How to reach me ... not really, don't think anyone would wanna reach me lol
 
 <!---
